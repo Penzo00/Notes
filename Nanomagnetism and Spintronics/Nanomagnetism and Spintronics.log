@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  5 NOV 2024 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  8 NOV 2024 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1180,7 +1180,8 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 61
 .
  (c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (./Nanomagnetism and Spintronics.aux (./chapter01.aux) (./chapter02.aux))
+) (./Nanomagnetism and Spintronics.aux (./chapter01.aux) (./chapter02.aux)
+(./chapter03.aux) (./chapter04.aux))
 \openout1 = `"Nanomagnetism and Spintronics.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -1429,7 +1430,7 @@ Package pdftex.def Info: Images/orange1.jpg  used on input line 1.
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=57, page=2, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=72, page=2, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 2>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page2 used on inp
@@ -1454,7 +1455,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=75, page=3, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=90, page=3, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 3>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page3 used on inp
@@ -1466,7 +1467,7 @@ ut line 6.
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=87, page=4, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=102, page=4, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 4>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page4 used on inp
@@ -1488,7 +1489,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=108, page=5, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=123, page=5, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 5>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page5 used on inp
@@ -1500,7 +1501,7 @@ ut line 10.
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=120, page=6, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=135, page=6, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 6>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page6 used on inp
@@ -1517,7 +1518,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=136, page=7, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=151, page=7, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 7>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page7 used on inp
@@ -1529,7 +1530,7 @@ ut line 14.
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=150, page=8, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=165, page=8, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 8>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page8 used on inp
@@ -1561,7 +1562,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [21]
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=178, page=3, 722.7pt x 542
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=193, page=3, 722.7pt x 542
 .025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 3>
@@ -1581,7 +1582,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [24]
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=213, page=4, 722.7pt x 542
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=228, page=4, 722.7pt x 542
 .025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 4>
@@ -1591,7 +1592,7 @@ Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
 
 
 [25 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=251, page=5, 722.7pt x 542
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=266, page=5, 722.7pt x 542
 .025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 5>
@@ -1611,7 +1612,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [28]
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=274, page=6, 722.7pt x 542
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=289, page=6, 722.7pt x 542
 .025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 6>
@@ -1629,7 +1630,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=287, page=9, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=302, page=9, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 9>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page9 used on inp
@@ -1651,7 +1652,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=308, page=10, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=324, page=10, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 10>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page10 used on in
@@ -1663,7 +1664,7 @@ put line 13.
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=341, page=11, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=356, page=11, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 11>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page11 used on in
@@ -1673,68 +1674,285 @@ put line 15.
 
 pdfTeX warning: pdflatex.exe (file ./lecture_1 basic magnetostatics.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lecture_1 basic magnetostatics.pdf, id=342, page=12, 722.7pt x 542.025pt>
+<lecture_1 basic magnetostatics.pdf, id=357, page=12, 722.7pt x 542.025pt>
 File: lecture_1 basic magnetostatics.pdf Graphic file (type pdf)
 <use lecture_1 basic magnetostatics.pdf, page 12>
 Package pdftex.def Info: lecture_1 basic magnetostatics.pdf , page12 used on in
 put line 16.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=343, page=7, 722.7pt x 542
-.025pt>
-File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
-<use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 7>
-Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
-7 used on input line 18.
-(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
-
-Underfull \vbox (badness 2359) has occurred while \output is active []
-
 
 
 [35 <./lecture_1 basic magnetostatics.pdf> <./lecture_1 basic magnetostatics.pd
 f>]
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=367, page=8, 722.7pt x 542
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[36]
+
+[37]
+
+[38
+
+]
+Chapter 3.
+File: Images/orange1.jpg Graphic file (type jpg)
+<use Images/orange1.jpg>
+Package pdftex.def Info: Images/orange1.jpg  used on input line 19.
+(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=394, page=2, 722.7pt x 542
+.025pt>
+File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
+<use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 2>
+Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
+2 used on input line 20.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[39 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[40]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=461, page=7, 722.7pt x 542
+.025pt>
+File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
+<use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 7>
+Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
+7 used on input line 22.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[41 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[43]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=498, page=8, 722.7pt x 542
 .025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 8>
 Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
-8 used on input line 20.
+8 used on input line 24.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=368, page=9, 722.7pt x 542
+
+
+[44 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[45]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=515, page=9, 722.7pt x 542
 .025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 9>
 Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
-9 used on input line 22.
+9 used on input line 26.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=369, page=10, 722.7pt x 54
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+7.
+ (c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+[46 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[47]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=538, page=10, 722.7pt x 54
 2.025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 10>
 Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
-10 used on input line 24.
+10 used on input line 28.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
 
 
-[36 <./Lecture_2 Thermodynamics of magnetic bodies.pdf> <./Lecture_2 Thermodyna
-mics of magnetic bodies.pdf> <./Lecture_2 Thermodynamics of magnetic bodies.pdf
->]
-<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=410, page=11, 722.7pt x 54
+[48 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=553, page=11, 722.7pt x 54
 2.025pt>
 File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
 <use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 11>
 Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
-11 used on input line 26.
+11 used on input line 30.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[49]
+
+[50 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=567, page=12, 722.7pt x 54
+2.025pt>
+File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
+<use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 12>
+Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
+12 used on input line 32.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[51 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[52]
+<Lecture_2 Thermodynamics of magnetic bodies.pdf, id=580, page=13, 722.7pt x 54
+2.025pt>
+File: Lecture_2 Thermodynamics of magnetic bodies.pdf Graphic file (type pdf)
+<use Lecture_2 Thermodynamics of magnetic bodies.pdf, page 13>
+Package pdftex.def Info: Lecture_2 Thermodynamics of magnetic bodies.pdf , page
+13 used on input line 35.
 (pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
 )
 
-[37 <./Lecture_2 Thermodynamics of magnetic bodies.pdf> <./Lecture_2 Thermodyna
-mics of magnetic bodies.pdf>]
+[53 <./Lecture_2 Thermodynamics of magnetic bodies.pdf>]
+\openout2 = `chapter03.aux'.
+
+ (./chapter03.tex
+
+[54
+
+
+
+
+]
+Chapter 4.
+File: Images/orange1.jpg Graphic file (type jpg)
+<use Images/orange1.jpg>
+Package pdftex.def Info: Images/orange1.jpg  used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+<Lecture_3 Magnetic free energy terms.pdf, id=611, page=2, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 2>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page2 used 
+on input line 2.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[55 <./Lecture_3 Magnetic free energy terms.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[58]
+<Lecture_3 Magnetic free energy terms.pdf, id=639, page=3, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 3>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page3 used 
+on input line 4.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[59 <./Lecture_3 Magnetic free energy terms.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[60]
+<Lecture_3 Magnetic free energy terms.pdf, id=659, page=4, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 4>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page4 used 
+on input line 6.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[61 <./Lecture_3 Magnetic free energy terms.pdf>]
+<Lecture_3 Magnetic free energy terms.pdf, id=669, page=5, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 5>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page5 used 
+on input line 8.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[62 <./Lecture_3 Magnetic free energy terms.pdf>]
+<Lecture_3 Magnetic free energy terms.pdf, id=684, page=7, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 7>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page7 used 
+on input line 10.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[63 <./Lecture_3 Magnetic free energy terms.pdf>]
+<Lecture_3 Magnetic free energy terms.pdf, id=695, page=6, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 6>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page6 used 
+on input line 12.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[64 <./Lecture_3 Magnetic free energy terms.pdf>]
+<Lecture_3 Magnetic free energy terms.pdf, id=710, page=8, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 8>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page8 used 
+on input line 14.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+<Lecture_3 Magnetic free energy terms.pdf, id=711, page=9, 722.7pt x 542.025pt>
+
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 9>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page9 used 
+on input line 16.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[65 <./Lecture_3 Magnetic free energy terms.pdf>]
+<Lecture_3 Magnetic free energy terms.pdf, id=720, page=10, 722.7pt x 542.025pt
+>
+File: Lecture_3 Magnetic free energy terms.pdf Graphic file (type pdf)
+<use Lecture_3 Magnetic free energy terms.pdf, page 10>
+Package pdftex.def Info: Lecture_3 Magnetic free energy terms.pdf , page10 used
+ on input line 18.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+)
+
+[66 <./Lecture_3 Magnetic free energy terms.pdf> <./Lecture_3 Magnetic free ene
+rgy terms.pdf>]
+\openout2 = `chapter04.aux'.
+
+ (./chapter04.tex)
 \tf@ptc=\write8
 \openout8 = `"Nanomagnetism and Spintronics.ptc"'.
 
  (./Nanomagnetism and Spintronics.aux
-(./chapter01.aux) (./chapter02.aux))
+(./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -1745,21 +1963,21 @@ ml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34047 strings out of 473579
- 628177 string characters out of 5732262
- 1513365 words of memory out of 5000000
- 56077 multiletter control sequences out of 15000+600000
- 636636 words of font info for 270 fonts, out of 8000000 for 9000
+ 34209 strings out of 473579
+ 632506 string characters out of 5732262
+ 1530045 words of memory out of 5000000
+ 56183 multiletter control sequences out of 15000+600000
+ 637100 words of font info for 275 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,12n,101p,14065b,843s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,101p,19195b,843s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb><c:/texlive/2
 024/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb><c:/texlive/2024/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Nanomagnetism and Spintronics.pdf" (37 pages, 4428141 bytes)
+Output written on "Nanomagnetism and Spintronics.pdf" (66 pages, 6272483 bytes)
 .
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 42 named destinations out of 1000 (max. 500000)
- 86675 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 813 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 88799 words of extra memory for PDF output out of 89155 (max. 10000000)
 

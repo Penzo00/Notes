@@ -7,4 +7,5 @@
 \contentsline {section}{\numberline {2.1}Tight Binding 1D}{54}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Tight Binding 3D}{66}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Lecture 3}{85}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Lecture 4}{109}{chapter.4}%
 \contentsfinish 

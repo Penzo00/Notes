@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  8 NOV 2024 11:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  15 NOV 2024 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,7 +1182,8 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 61
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./Nanoelectronics of Graphene and Related 2D Materials.aux (./chapter01.aux)
 
-(./chapter02.aux) (./chapter03.aux))
+(./chapter02.aux) (./chapter03.aux) (./chapter04.aux) (./chapter05.aux)
+(./chapter06.aux))
 \openout1 = `"Nanoelectronics of Graphene and Related 2D Materials.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -2093,11 +2094,826 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [77]
 
 [78]
+\openout2 = `chapter04.aux'.
+
+ (./chapter04.tex
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1261, page=3
+3, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 33>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page33 used on input line 1.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[79
+
+
+
+ <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[80]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1337, page=3
+4, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 34>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page34 used on input line 3.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[81]
+
+[82 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[84]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1399, page=3
+5, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 35>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page35 used on input line 5.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[85 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1445, page=3
+6, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 36>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page36 used on input line 7.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[86]
+
+[87 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[88]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1494, page=3
+7, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 37>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page37 used on input line 9.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[89 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1524, page=3
+8, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 38>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page38 used on input line 11.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[90 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1547, page=3
+9, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 39>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page39 used on input line 13.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[91 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[92]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1574, page=4
+0, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 40>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page40 used on input line 15.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[93 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[94]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1599, page=4
+1, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 41>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page41 used on input line 18.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[95]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1604, page=4
+2, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 42>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page42 used on input line 20.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+)
+
+[96 <./Nanoelectronics of graphene and related 2D materials 2024.pdf> <./Nanoel
+ectronics of graphene and related 2D materials 2024.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+>]
+
+[97]
+\openout2 = `chapter05.aux'.
+
+ (./chapter05.tex
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1631, page=4
+3, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 43>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page43 used on input line 1.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1632, page=4
+4, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 44>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page44 used on input line 3.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[98
+
+
+
+ <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1652, page=4
+5, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 45>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page45 used on input line 5.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[99 <./Nanoelectronics of graphene and related 2D materials 2024.pdf> <./Nanoel
+ectronics of graphene and related 2D materials 2024.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1660, page=4
+6, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 46>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page46 used on input line 7.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[100 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[102]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1714, page=4
+7, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 47>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page47 used on input line 9.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[103]
+
+[104 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[105]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[106]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1778, page=4
+8, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 48>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page48 used on input line 11.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[107 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[108]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1831, page=4
+9, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 49>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page49 used on input line 13.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[109 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1869, page=5
+0, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 50>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page50 used on input line 15.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[110 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[111]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1916, page=5
+1, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 51>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page51 used on input line 17.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[112 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[113]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[114]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1978, page=5
+2, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 52>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page52 used on input line 19.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[115 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=1998, page=5
+3, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 53>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page53 used on input line 21.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[116 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2020, page=5
+4, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 54>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page54 used on input line 23.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[117 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2047, page=5
+5, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 55>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page55 used on input line 25.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2048, page=5
+6, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 56>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page56 used on input line 27.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[118 <./Nanoelectronics of graphene and related 2D materials 2024.pdf> <./Nanoe
+lectronics of graphene and related 2D materials 2024.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2076, page=5
+7, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 57>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page57 used on input line 29.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2077, page=5
+8, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 58>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page58 used on input line 31.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[119 <./Nanoelectronics of graphene and related 2D materials 2024.pdf> <./Nanoe
+lectronics of graphene and related 2D materials 2024.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[120]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2108, page=5
+9, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 59>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page59 used on input line 33.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2109, page=6
+0, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 60>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page60 used on input line 35.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[121 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+[122 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2141, page=6
+1, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 61>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page61 used on input line 37.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[123 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2170, page=6
+2, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 62>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page62 used on input line 39.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[124 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2193, page=6
+3, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 63>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page63 used on input line 41.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+)
+
+[125 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[126]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[128]
+
+[129]
+\openout2 = `chapter06.aux'.
+
+ (./chapter06.tex
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2243, page=6
+4, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 64>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page64 used on input line 1.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[130
+
+
+
+ <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2274, page=6
+5, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 65>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page65 used on input line 3.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[131 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[133]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2356, page=6
+6, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 66>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page66 used on input line 5.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[134]
+
+[135 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[136]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[137]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2425, page=6
+7, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 67>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page67 used on input line 7.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[138 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2469, page=6
+8, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 68>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page68 used on input line 9.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[139]
+
+[140 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[141]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2530, page=6
+9, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 69>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page69 used on input line 11.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[142 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[144]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2613, page=7
+0, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 70>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page70 used on input line 13.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+
+
+[145 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[146]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[148]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[149]
+
+pdfTeX warning: pdflatex.exe (file ./Nanoelectronics of graphene and related 2D
+ materials 2024.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<Nanoelectronics of graphene and related 2D materials 2024.pdf, id=2725, page=7
+1, 722.7pt x 542.025pt>
+File: Nanoelectronics of graphene and related 2D materials 2024.pdf Graphic fil
+e (type pdf)
+<use Nanoelectronics of graphene and related 2D materials 2024.pdf, page 71>
+Package pdftex.def Info: Nanoelectronics of graphene and related 2D materials 2
+024.pdf , page71 used on input line 15.
+(pdftex.def)             Requested size: 289.07487pt x 216.80615pt.
+)
+
+[150 <./Nanoelectronics of graphene and related 2D materials 2024.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[151]
+
+[152]
 \tf@ptc=\write8
 \openout8 = `"Nanoelectronics of Graphene and Related 2D Materials.ptc"'.
 
  (./Nanoelectronics of Graphene and Related 2D Materials.aux
-(./chapter01.aux) (./chapter02.aux) (./chapter03.aux))
+(./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux)
+(./chapter05.aux) (./chapter06.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -2108,10 +2924,10 @@ ted 2D Materials".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34120 strings out of 473579
- 633057 string characters out of 5732262
- 1560156 words of memory out of 5000000
- 56119 multiletter control sequences out of 15000+600000
+ 34386 strings out of 473579
+ 644701 string characters out of 5732262
+ 1568539 words of memory out of 5000000
+ 56290 multiletter control sequences out of 15000+600000
  631535 words of font info for 267 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,11n,101p,36385b,843s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2120,11 +2936,11 @@ live/2024/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb><c:/texlive/2024/texmf
 -dist/fonts/type1/urw/avantgar/uagk8a.pfb><c:/texlive/2024/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on "Nanoelectronics of Graphene and Related 2D Materials.pdf" (7
-8 pages, 5268629 bytes).
+Output written on "Nanoelectronics of Graphene and Related 2D Materials.pdf" (1
+52 pages, 10267960 bytes).
 PDF statistics:
- 1311 PDF objects out of 1440 (max. 8388607)
- 882 compressed objects within 9 object streams
- 81 named destinations out of 1000 (max. 500000)
- 79024 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 2850 PDF objects out of 2984 (max. 8388607)
+ 1874 compressed objects within 19 object streams
+ 155 named destinations out of 1000 (max. 500000)
+ 79219 words of extra memory for PDF output out of 89155 (max. 10000000)
 
