@@ -1,11 +1,12 @@
 \contentsline {part}{\numberline {I}Semiconductor Nanostructures}{5}{part.1}%
 \contentsline {chapter}{\numberline {1}Lecture 1}{7}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introduction}{8}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Survey of Semiconductor Properties}{16}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Linear Combination of Atomic Orbitals}{30}{section.1.3}%
+\contentsline {section}{\numberline {1.1}Introduction to the "Semiconductor Nanostructures" Lectures}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Formation of Semiconducting Materials, Bandgap vs. Lattice Parameter}{16}{section.1.2}%
+\contentsline {section}{\numberline {1.3}The Linear Combination of Atomic Orbitals Method}{30}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Lecture 2}{53}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Tight Binding 1D}{54}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Tight Binding 3D}{66}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Lecture 3}{85}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Lecture 4}{109}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Lecture 05: Effective mass in multivalley semiconductors: the role of anisotropy and valley degeneracy. Hole effective mass. The acceleration theorem in reciprocal space.}{137}{chapter.5}%
 \contentsfinish 
